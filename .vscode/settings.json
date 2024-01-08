@@ -1,0 +1,10 @@
+{
+  "markdown.extension.toc.levels": "2..6",
+  "appService.showBuildDuringDeployPrompt": false,
+  "appService.defaultWebAppToDeploy": "None",
+  "appService.zipIgnorePattern": [
+    "src{,/**}",
+    "data{,/**}",
+    ".vscode{,/**}"
+  ]
+}
